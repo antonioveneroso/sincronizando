@@ -7,5 +7,6 @@
         <title>Document</title>
     </head>
     <body>
+        Este es el cuerpo de l página <br>
     </body>    
 </hmtl>
